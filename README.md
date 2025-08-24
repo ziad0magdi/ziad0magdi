@@ -1,4 +1,4 @@
-💻 Full Stack Developer | ⚙️ Data Engineer | React, Node.js, SQL | Turning Ideas into Scalable Solutions
+💻 Full-Stack & Data Engineer | Transforming Data into Insights & Apps
 
 Versatile developer skilled in building complete web applications and managing large-scale data workflows.
 From designing interactive front-ends to implementing robust back-ends and optimizing database performance, I bring end-to-end solutions to life.
