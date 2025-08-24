@@ -15,3 +15,5 @@ Database & Data: MySQL, SQL Server, ETL, Data Modeling
 Other: Git/GitHub, REST APIs, MVC, XAMPP
 
 📌 Always exploring new technologies and combining software engineering with data engineering to create impactful, scalable systems.
+![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziad0magdi&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziad0magdi&layout=compact)
